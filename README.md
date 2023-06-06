@@ -1,6 +1,8 @@
 # deep-learning-challenge
 Module 21 Challenge
 
+![portada](https://github.com/f2-b2/deep-learning-challenge/assets/118685191/d38fa741-b7d2-49eb-9edd-f79fd87ecddf)
+
 ## Background
 The nonprofit foundation Alphabet Soup wants a tool that can help it select the applicants for funding with the best chance of success in their ventures. With your knowledge of machine learning and neural networks, you’ll use the features in the provided dataset to create a binary classifier that can predict whether applicants will be successful if funded by Alphabet Soup.
 
